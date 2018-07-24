@@ -1,8 +1,8 @@
 Locales['fr'] = {
 	['new_message'] = '~b~Nouveau message :~s~ %s',
-	['press_take_call'] = '%s - appuyez sur ~INPUT_CONTEXT~ pour ~g~~h~prendre l\'appel',
+	['press_take_call'] = '%s - Appuyez sur ~INPUT_CONTEXT~ pour ~g~~h~prendre l\'appel',
 	['taken_call'] = '~y~%s~s~ a pris l\'appel',
-	['gps_position'] = '~y~position~s~ entrée ~g~~h~dans le GPS',
+	['gps_position'] = '~y~Position~s~ entrée ~g~~h~dans le GPS',
 	['message_sent'] = 'message ~g~~h~envoyé',
 	['cannot_add_self'] = 'vous ne pouvez pas ~r~~h~vous ajouter vous-même',
 	['number_in_contacts'] = 'ce numéro est ~r~~h~déja dans votre liste de contacts',
